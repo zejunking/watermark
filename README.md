@@ -3,7 +3,6 @@
 
 #####  安装
 ```
-npm i git@github.com:zejunking/watermark.git
 npm i watermark_canvas_js
 ```
 
