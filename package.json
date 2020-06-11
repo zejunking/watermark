@@ -1,6 +1,6 @@
 {
   "name": "watermark_canvas_js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "watermark by canvas",
   "main": "dist/index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "author": "Zejun Wang",
   "license": "ISC",
+  "homepage": "https://github.com/zejunking/watermark",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
