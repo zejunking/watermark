@@ -11,7 +11,6 @@ npm i watermark_canvas_js
 import WaterMark from 'watermark'
 ```
 #### WaterMarkCanvas使用
-该水印方法使用div编写
 ```js
 const watermark = new WaterMark({
       watermark_id: 'wm_canvas_id',
