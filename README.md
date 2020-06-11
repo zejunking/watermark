@@ -8,7 +8,7 @@ npm i watermark_canvas_js
 
 #### 使用
 ```js
-import WaterMark from 'watermark'
+import WaterMark from 'watermark_canvas_js'
 ```
 #### WaterMarkCanvas使用
 ```js

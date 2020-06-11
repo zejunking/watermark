@@ -1,6 +1,6 @@
 {
   "name": "watermark_canvas_js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "watermark by canvas",
   "main": "dist/index.js",
   "scripts": {
